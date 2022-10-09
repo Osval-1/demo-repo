@@ -1,2 +1,2 @@
-# demo-repo
-Demo for github tutorial
+# demo
+some description
